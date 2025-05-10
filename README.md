@@ -7,11 +7,7 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=MohammadrezaAmani&color=grey">
-</p>
-<br>
-<p align="center">
-Hey, it's Hossein, I don't have much to say, if you need to know something about me, you can find it in my <a href="./CVFiles/src/backend/MohammadrezaAmani_backend.pdf"> Resume </a> or My github. 
+Hey, it's Hossein, I don't have much to say, if you need to know something about me, you can find it in my <a href="./assets/HosseinKalantari-CV.pdf"> Resume </a> or My github. 
 If you feel you need my help in a project or want to communicate with me, feel free to email me.
 </p>
 <p align="center">
